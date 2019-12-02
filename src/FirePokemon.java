@@ -12,8 +12,6 @@ public class FirePokemon extends Pokemon implements CanFly{
     }
 
 
-    @Override
     public void fly() {
-        System.out.println("Spyr ild og flyver på den måde.");
-    }
+  }
 }
